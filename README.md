@@ -1,5 +1,6 @@
 # MUMBI PORTFOLIO
 ### AUTHOR : MUMBI 1O/3/2023
 ## PROJECT DESCRIPTION
- as well as GitHub-specific features such as auto-linking references to commits, issues, usernames, etc. In 2017, GitHub released a formal specification of its GitHub Flavored Markdown (GFM) that is based on CommonMark
-
+ this is me. i share about me, skills and how to contact me
+ ##screenshots
+ ![Screenshot from 2023-03-12 09-48-53](https://user-images.githubusercontent.com/126749794/224529328-d33a3dc7-8583-4bb9-900b-3e6db567bf5b.png)
