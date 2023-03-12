@@ -42,10 +42,7 @@ Then run server with the above command
 *****
 ## [License](LICENSE)
 MIT License
-Copyright (c) YEAR Author
-white_check_mark
-eyes
-raised_hands
+Copyright (c) 2023 mumbi kariuki
 
 
 
