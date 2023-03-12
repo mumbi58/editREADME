@@ -30,12 +30,14 @@ To install all requirements
 > $ python3 manage.py runserver
 Then run server with the above command
 *****
+## dependencies
+- font awesome icons
 ## Technologies Used
 1. HTML
 2. MdBootstrap
 3. HTML
 4. CSS
-5. JavaScript
+
 *****
 ## Contact Information
 * Email : kariukimumbi475@gmail.com
