@@ -35,8 +35,7 @@ Then run server with the above command
 ## Technologies Used
 1. HTML
 2. MdBootstrap
-3. HTML
-4. CSS
+3. CSS
 
 *****
 ## Contact Information
